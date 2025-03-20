@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\2025\\TimKiemGiay-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|D:\\2025\\TimKiemGiay-main\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|d:\\2025\\timkiemgiay-main\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|d:\\2025\\timkiemgiay-main\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|D:\\2025\\TimKiemGiay-main\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "ShoeOptimizer\\LocSanPham.cs",
               "ToolTip": "D:\\2025\\TimKiemGiay-main\\ShoeOptimizer\\LocSanPham.cs",
               "RelativeToolTip": "ShoeOptimizer\\LocSanPham.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAwwGkAAAAJAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswEMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T11:36:38.979Z",
               "EditorCaption": ""
@@ -102,8 +102,7 @@
               "ToolTip": "D:\\2025\\TimKiemGiay-main\\ShoeOptimizer\\QuanLyGiay.cs [Design]",
               "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:16:12.587Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-17T15:16:12.587Z"
             },
             {
               "$type": "Document",
@@ -126,8 +125,7 @@
               "ToolTip": "D:\\2025\\TimKiemGiay-main\\ShoeOptimizer\\DangNhap.cs [Design]",
               "RelativeToolTip": "ShoeOptimizer\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:16:38.979Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-17T15:16:38.979Z"
             },
             {
               "$type": "Document",
@@ -139,8 +137,7 @@
               "RelativeToolTip": "ShoeOptimizer\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:50:16.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T11:50:16.451Z"
             },
             {
               "$type": "Document",
@@ -152,8 +149,7 @@
               "RelativeToolTip": "ShoeOptimizer\\DangNhap.cs",
               "ViewState": "AQIAAH0AAAAAAAAAAAAWwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:48:24.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:48:24.9Z"
             },
             {
               "$type": "Document",
@@ -165,8 +161,7 @@
               "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.cs",
               "ViewState": "AQIAAJgAAAAAAAAAAAAwwM8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T07:34:57.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T07:34:57.823Z"
             },
             {
               "$type": "Document",
@@ -178,8 +173,7 @@
               "RelativeToolTip": "ShoeOptimizer\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:48:42.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:48:42.741Z"
             },
             {
               "$type": "Document",
@@ -202,8 +196,7 @@
               "ToolTip": "D:\\2025\\TimKiemGiay-main\\ShoeOptimizer\\QuanLyGiay.Designer.cs",
               "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.Designer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T07:43:45.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T07:43:45.126Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "ToolTip": "D:\\2025\\TimKiemGiay-main\\ShoeOptimizer\\DangNhap.Designer.cs",
               "RelativeToolTip": "ShoeOptimizer\\DangNhap.Designer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T07:07:04.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T07:07:04.443Z"
             }
           ]
         },

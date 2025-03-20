@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Nike m\u00E0u \u0111en",
+    "Price": 300000,
+    "Size": "32",
+    "Quantity": 10,
+    "ThuongHieu": "Nike",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh1.jpg"
+  },
+  {
+    "Name": "adidas m\u00E0u h\u1ED3ng",
+    "Price": 500000,
+    "Size": "32",
+    "Quantity": 50,
+    "ThuongHieu": "Adidas",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh2.jpg"
+  },
+  {
+    "Name": "Gi\u00E0y c\u1ED5 cau",
+    "Price": 1000000,
+    "Size": "34",
+    "Quantity": 10,
+    "ThuongHieu": "Convert",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh4.jpg"
+  },
+  {
+    "Name": "Gi\u00E0y th\u1EC3 thao",
+    "Price": 900000,
+    "Size": "31",
+    "Quantity": 10,
+    "ThuongHieu": "Puma",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh3.jpg"
+  },
+ {
+    "Name": "Gi\u00E0y th\u1EC3 thao",
+    "Price": 500000,
+    "Size": "32",
+    "Quantity": 10,
+    "ThuongHieu": "Puma",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh3.jpg"
+  },
+{
+    "Name": "Gi\u00E0y th\u1EC3 thao",
+    "Price": 200000,
+    "Size": "31",
+    "Quantity": 10,
+    "ThuongHieu": "Puma",
+    "ImagePath": "E:\\TKPTTT\\Git\\TimKiemGiay\\anh\\anh3.jpg"
+  }
+
+]

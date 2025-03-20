@@ -1,0 +1,78 @@
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe.config
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\bin\Debug\ShoeOptimizer.pdb
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.AssemblyReference.cache
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.DangNhap.resources
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.QuanLyGiay.resources
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.TimKiem.resources
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.Properties.Resources.resources
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.GenerateResource.cache
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.CoreCompileInputs.cache
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.exe
+D:\2025\kỹ thuật lập trình\TimKiemGiay-main\ShoeOptimizer\ShoeOptimizer\obj\Debug\ShoeOptimizer.pdb
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe.config
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\ShoeOptimizer.pdb
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.AssemblyReference.cache
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.DangNhap.resources
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.QuanLyGiay.resources
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.Properties.Resources.resources
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.GenerateResource.cache
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.CoreCompileInputs.cache
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.exe
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.pdb
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Buffers.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.IO.Pipelines.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Memory.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Numerics.Vectors.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Text.Encodings.Web.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Text.Json.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.ValueTuple.dll
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Buffers.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.IO.Pipelines.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Memory.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Numerics.Vectors.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Text.Encodings.Web.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Text.Json.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\bin\Debug\System.ValueTuple.xml
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOpti.ACCEBD76.Up2Date
+E:\TKPTTT\Git\TimKiemGiay\ShoeOptimizer\obj\Debug\ShoeOptimizer.LocSanPham.resources
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe.config
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\ShoeOptimizer.exe
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\ShoeOptimizer.pdb
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Buffers.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.IO.Pipelines.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Memory.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Numerics.Vectors.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Text.Encodings.Web.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Text.Json.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.ValueTuple.dll
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Buffers.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.IO.Pipelines.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Memory.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Numerics.Vectors.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Text.Encodings.Web.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Text.Json.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\bin\Debug\System.ValueTuple.xml
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.AssemblyReference.cache
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.DangNhap.resources
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.LocSanPham.resources
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.QuanLyGiay.resources
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.Properties.Resources.resources
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.GenerateResource.cache
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.csproj.CoreCompileInputs.cache
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOpti.ACCEBD76.Up2Date
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.exe
+D:\2025\TimKiemGiay-main\ShoeOptimizer\obj\Debug\ShoeOptimizer.pdb

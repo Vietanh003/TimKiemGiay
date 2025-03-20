@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TKPTTT\\Git\\TimKiemGiay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|e:\\tkpttt\\git\\timkiemgiay\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\locsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\quanlygiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\quanlygiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\quanlygiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\quanlygiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\locsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\locsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\listgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\listgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\quanlygiay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\quanlygiay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|E:\\TKPTTT\\Git\\TimKiemGiay\\shoeoptimizer\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949486B-3521-4788-9249-E8A19A5ECB18}|ShoeOptimizer\\ShoeOptimizer.csproj|solutionrelative:shoeoptimizer\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocSanPham.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\LocSanPham.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.cs*",
+              "RelativeToolTip": "ShoeOptimizer\\LocSanPham.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:36:38.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyGiay.cs [Design]",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\QuanLyGiay.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.cs [Design]",
+              "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:16:12.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocSanPham.cs [Design]",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\LocSanPham.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.cs [Design]*",
+              "RelativeToolTip": "ShoeOptimizer\\LocSanPham.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:36:28.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyGiay.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\QuanLyGiay.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.cs",
+              "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:34:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Product.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\Product.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Product.cs",
+              "RelativeToolTip": "ShoeOptimizer\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:50:16.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocSanPham.Designer.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\LocSanPham.Designer.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\LocSanPham.Designer.cs",
+              "RelativeToolTip": "ShoeOptimizer\\LocSanPham.Designer.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAkwL0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:47:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\Program.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Program.cs",
+              "RelativeToolTip": "ShoeOptimizer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:48:42.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\DangNhap.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.cs",
+              "RelativeToolTip": "ShoeOptimizer\\DangNhap.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v1EAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:48:24.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\DangNhap.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.cs [Design]",
+              "RelativeToolTip": "ShoeOptimizer\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:16:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListGiay.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\ListGiay.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\ListGiay.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\ListGiay.cs",
+              "RelativeToolTip": "ShoeOptimizer\\ListGiay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:17:15.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyGiay.Designer.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.Designer.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\QuanLyGiay.Designer.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\QuanLyGiay.Designer.cs",
+              "RelativeToolTip": "ShoeOptimizer\\QuanLyGiay.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAIwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:43:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Giay.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Giay.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\Giay.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\Giay.cs",
+              "RelativeToolTip": "ShoeOptimizer\\Giay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:28:11.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "ShoeOptimizer\\DangNhap.Designer.cs",
+              "ToolTip": "E:\\TKPTTT\\Git\\TimKiemGiay\\ShoeOptimizer\\DangNhap.Designer.cs",
+              "RelativeToolTip": "ShoeOptimizer\\DangNhap.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4v0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:07:04.443Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
